@@ -34,12 +34,6 @@ The model is trained and evaluated on a labeled speech dataset and provides metr
 
 ---
 
-## Installation
-
-To run this project, set up the required Python environment, install the dependencies listed in the `requirements.txt` file, and open the `Speech_emotion_recognition.ipynb` Jupyter Notebook to execute the code.
-
----
-
 ## Data
 
 The dataset used in this project contains labeled speech samples categorized by emotional states. Key features include:
